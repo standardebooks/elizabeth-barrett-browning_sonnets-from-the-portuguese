@@ -15,11 +15,3 @@
 [epub|type~="z3998:poem"] p > span + br{
 	  display: none;
 }
-
-[epub|type~="z3998:poem"] p + p{
-	  margin-top: 1em;
-}
-
-[epub|type~="z3998:poem"] + p{
-	  text-indent: 0;
-}

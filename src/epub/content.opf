@@ -27,8 +27,8 @@
 		<dc:description id="description">A collection of 44 love sonnets.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This book contains a collection of forty four love sonnets, like most of Browning's work following a religious theme. The author enjoyed popular acclaim during her lifetime, influencing writers such as Edgar Allan Poe and Emily Dickinson.&lt;/p&gt;
-			&lt;p&gt;Elizabeth Barrett Browing wrote this sonnets between 1845 and 1846, to which she was initially hesitant to publish them, later was convinced by her husband to so. To provide some sense of privacy, she published the sonnets under the book's title, some who think is a reference to &lt;em&gt;Les Lettres Portugaises&lt;/em&gt;&lt;/p&gt;
+			&lt;p&gt;This book contains a collection of forty four love sonnets, like most of Browning’s work following a religious theme. The author enjoyed popular acclaim during her lifetime, influencing writers such as Edgar Allan Poe and Emily Dickinson.&lt;/p&gt;
+			&lt;p&gt;Elizabeth Barrett Browing wrote this sonnets between 1845 and 1846, to which she was initially hesitant to publish them, later was convinced by her husband to so. To provide some sense of privacy, she published the sonnets under the book’s title, some who think is a reference to &lt;em&gt;Les Lettres Portugaises&lt;/em&gt;&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -48,14 +48,13 @@
 		<dc:contributor id="artist">Paolo Veronese</dc:contributor>
 		<meta property="file-as" refines="#artist">Veronese, Paolo</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paolo_Veronese</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79040166.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79040166</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Gustavo De Micheli</dc:contributor>
 		<meta property="file-as" refines="#producer-1">De Micheli, Gustavo</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
