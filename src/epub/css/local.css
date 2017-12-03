@@ -1,7 +1,13 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+article{
+	  page-break-after: always;
+	  text-align: center;
+}
+
 [epub|type~="z3998:poem"] p{
+	  display: inline-block;
 	  text-align: left;
 	  text-indent: 0;
 }
