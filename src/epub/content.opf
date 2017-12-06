@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/elizabeth-barrett-browning/sonnets-from-the-portuguese</dc:identifier>
 		<dc:date>2017-12-02T19:47:22Z</dc:date>
-		<meta property="dcterms:modified">2017-12-03T23:41:08Z</meta>
-		<meta property="se:revision-number">2</meta>
+		<meta property="dcterms:modified">2017-12-06T20:29:23Z</meta>
+		<meta property="se:revision-number">3</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -27,7 +27,7 @@
 		<dc:description id="description">A collection of 44 love sonnets.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Sonnets from the Portuguese&lt;/i&gt; is a collection of forty-four love sonnets. Despite what the title suggests, the sonnets were in fact written in English by Elizabeth Barrett Browning. She decided to frame them as "translations" because she was concerned they may have been too personal to publish. Fortunately her husband, Robert Browning, convinced her to publish them, and they went on to become some of the most famous and critically-acclaimed love sonnets to this day.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Sonnets from the Portuguese&lt;/i&gt; is a collection of forty-four love sonnets. Despite what the title suggests, Browning in fact composed the sonnets in English. She decided to frame them as “translations” because she was concerned they may have been too personal to publish. Fortunately her husband, Robert Browning, convinced her to publish them, and they went on to become some of the most famous and critically-acclaimed love sonnets to this day.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
