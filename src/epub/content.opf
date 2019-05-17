@@ -26,20 +26,20 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Sonnets from the Portuguese</dc:title>
 		<meta property="file-as" refines="#title">Sonnets from the Portuguese</meta>
 		<dc:subject id="subject-1">Sonnets, English</dc:subject>
 		<dc:subject id="subject-2">Love poetry, English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2002</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2002</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85125246</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85078561</meta>
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of 44 love sonnets.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Sonnets from the Portuguese&lt;/i&gt; is a collection of forty-four love sonnets. Despite what the title suggests, Browning in fact composed the sonnets in English. She decided to frame them as “translations” because she was concerned they may have been too personal to publish. Fortunately her husband, Robert Browning, convinced her to publish them, and they went on to become some of the most famous and critically-acclaimed love sonnets to this day.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2002</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100114123</dc:source>
