@@ -2,22 +2,22 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 article{
-	  page-break-after: always;
-	  text-align: center;
+	page-break-after: always;
+	text-align: center;
 }
 
 [epub|type~="z3998:poem"] p{
-	  display: inline-block;
-	  text-align: left;
-	  text-indent: 0;
+	display: inline-block;
+	text-align: left;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] p > span{
-	  display: block;
-	  text-indent: -1em;
-	  padding-left: 1em;
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
 }
 
 [epub|type~="z3998:poem"] p > span + br{
-	  display: none;
+	display: none;
 }
