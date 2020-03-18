@@ -3,7 +3,7 @@
 	<title>The titlepage for the Standard Ebooks edition of Sonnets from the Portuguese, by Elizabeth Barrett Browning</title>
 	<style type="text/css">
 		text{
-			font-family: League Spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
