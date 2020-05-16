@@ -38,7 +38,7 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of 44 love sonnets.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Sonnets from the Portuguese&lt;/i&gt; is a collection of forty-four love sonnets. Despite what the title suggests, Browning in fact composed the sonnets in English. She decided to frame them as “translations” because she was concerned they may have been too personal to publish. Fortunately her husband, Robert Browning, convinced her to publish them, and they went on to become some of the most famous and critically-acclaimed love sonnets to this day.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Sonnets from the Portuguese&lt;/i&gt; is a collection of forty-four love sonnets. Despite what the title suggests, &lt;a href="https://standardebooks.org/ebooks/elizabeth-barrett-browning"&gt;Browning&lt;/a&gt; in fact composed the sonnets in English. She decided to frame them as “translations” because she was concerned they may have been too personal to publish. Fortunately her husband, Robert Browning, convinced her to publish them, and they went on to become some of the most famous and critically-acclaimed love sonnets to this day.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2002</dc:source>
