@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 article{
-	page-break-after: always;
+	break-after: page;
 	text-align: center;
 }
 
